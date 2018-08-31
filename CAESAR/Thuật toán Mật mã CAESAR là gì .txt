@@ -1,0 +1,9 @@
+﻿Mỗi kí tự trong bảng chữ cái được thay thế bởi một kí tự khác cùng bảng, 
+cách sau nó k vị trí (0<k<=25)
+Đây là một trong những mật mã ra đời sớm nhất, do Julius Caesar phát minh.
+=========================================================
+Ví dụ k = 3
+Plaintext:   
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+Ciphertext:       
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
